@@ -70,11 +70,11 @@ THEN I should have proper build scripts for a webpack application
 
 ## Installation
 
-TBA
+To install click the install button on the page, or the install button in the search bar.
 
 ## Usage
 
-TBA
+Input text, it will save when you click off the text editor. It will reload when you return to the site as you left it.
 
 ## License
 
