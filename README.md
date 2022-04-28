@@ -18,7 +18,7 @@
 
 ## Description
 
-The purpose of this repository is to create a Text Editor that runs in the browser and can be installed onto the User's PC.
+The purpose of this repository is to create a Text Editor that runs in the browser and can be installed onto the User's PC for offline use.
 
 ### Features
 
@@ -96,13 +96,11 @@ If you would like to contribute to the project please message my github.
 
 ## Screenshots
 
-![App-Screenshot]()
-![App-Screenshot]()
-![App-Screenshot]()
+![App-Screenshot](./Assets/deployedApp.png)
 
 ## Deployed Application
 
-[URL](Heroku)
+[URL](https://micky-text-editor.herokuapp.com/)
 
 ## Questions
 
